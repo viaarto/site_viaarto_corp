@@ -1,0 +1,156 @@
+baseURL       = "localhost"
+languageCode  = "pt-br"
+title         = "Via Arto - Personalizados e Brindes"
+theme         = "roxo-hugo"
+summarylength = 25
+
+# Meus Parametros
+publishDir    = "docs"
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "Quem é a Via Arto"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Nossos Produtos & Serviços"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Blog"
+    url     = "blog"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Loja"
+    url     = "https://viaarto.com.br"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Entre em Contato"
+    url     = "contact"
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  logo_footer = "images/logo-footer.png"
+  favicon_icon = "images/favicon.ico"
+  favicon_shortcut_icon = "images/favicon.png"
+  custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Via Arto produtos personalizados e brindes"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabform  = "https://fabform.io/f/USAg2Jl"
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "First Name"
+    placeholder_last_name         = "Last Name"
+    placeholder_email             = "Email"
+    placeholder_project_type      = "Project Type"
+    placeholder_about_the_project = "About the Project"
+    send_message                  = "Send Message"
+
+    [[params.contactForm.projectType]]
+      value = "gd"
+      title  = "Graphics Design"
+    [[params.contactForm.projectType]]
+      value = "wd"
+      title  = "Web Design"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    heading               = "Nós somos uma empresa de soluções de produtos personalizados e brindes"
+    tagline               = "VIA ARTO = SUA ARTE"
+    primary_button        = "Conheça nossos trabalhos"
+    primary_button_url    = "portfolio"
+    secondary_button      = "Entre em Contato"
+    secondary_button_url  = "contact"
+
+  [params.blog]
+    read_more             = "read more"
+
+  [params.portfolio]
+    enable    = true
+    title     = "Nosso Portfolio de Produtos e Serviços"
+    subtitle  = "Criando experiências e buscando tornar o complexo claro e bonito."
+    view_project = "view project"
+    more_works = "MORE WORKS"
+    scroll_down = "scroll down"
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "Vamos Trabalhar Juntos?"
+    primary_button      = "Entre em Contato"
+    primary_button_url  = "contact"
+    secondary_button    = "Ainda não está convencido?"
+    secondary_button_url = "portfolio"
+
+  [params.footer]
+    params.footer.qr_print = false
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Informação de Contato"
+      address = "Av. Papa Pio XII, 471 - Macedo - Guarulhos - SP - 07113-000 "
+      phone   = "+55 11 91239-4099"
+      email   = "contato@viaarto.com.br"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Navegue Pelo Site"
+        [[params.footer.sitemap.link]]
+          name = "Sobre Nós"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Projetos, Produtos e Serviços"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "Blog"
+          url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "Contato"
+          url  = "contact"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Nossas Redes Sociais"
+        [[params.footer.social.link]]
+          name = "WhatsApp"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Instagram"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Facebook"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Linkedin"
+          url  = "https://www.linkedin.com/company/viaarto/"
+        [[params.footer.social.link]]
+          name = "Google"
+          url  = "https://g.co/kgs/VBvQP7"        
+      # Footer Service
+      [params.footer.service]
+        title       = "Nós ajudamos marcas e empresas"
+        description = "oferecendo soluções completas em produtos personalizados e brindes"
+      [params.footer.back_to_top]
+        description = "Subir"
+
+
+        
