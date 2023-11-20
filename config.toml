@@ -27,6 +27,10 @@ publishDir    = "docs"
     url     = "blog"
     weight  = 4
   [[menu.nav]]
+    name    = "FEIRAS"
+    url     = "feiras"
+    weight  = 4
+  [[menu.nav]]
     name    = "Loja"
     url     = "https://viaarto.com.br"
     weight  = 4
