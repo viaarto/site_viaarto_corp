@@ -26,14 +26,10 @@ publishDir    = "docs"
     name    = "Blog"
     url     = "blog"
     weight  = 4
-  [[menu.nav]]
-    name    = "FEIRAS"
-    url     = "feiras"
-    weight  = 4
-  [[menu.nav]]
-    name    = "Loja"
-    url     = "https://viaarto.com.br"
-    weight  = 4
+ # [[menu.nav]]
+ #   name    = "Loja"
+ #   url     = "https://viaarto.com.br"
+ #   weight  = 4
   [[menu.nav]]
     name    = "Entre em Contato"
     url     = "contact"
@@ -48,9 +44,9 @@ publishDir    = "docs"
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Via Arto produtos personalizados e brindes"
+  description = "Via Arto produtos personalizados e brindes corporativos"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "G-KDCT2Y1R4E"
   # We're using formspree.io for form handling, paste your formspree url below
   fabform  = "https://fabform.io/f/USAg2Jl"
 
