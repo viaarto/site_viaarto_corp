@@ -1,14 +1,14 @@
-enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+enable : false
+heading : "A prova está nos numeros"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
-
-  - title: "Projects Completed"
+  - title: "Clientes Felizes"
     number: "100"
 
-  - title: "Cups of coffee"
+  - title: "Projetos Completados"
+    number: "150"
+
+  - title: "Latas de Energético"
     number: "350"
 
-  - title: "Telephone Talks"
-    number: "775"
+  #- title: "Telephone Talks"
+  #  number: "775"

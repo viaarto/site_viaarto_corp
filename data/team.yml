@@ -1,44 +1,44 @@
-enable  : true
-title   : Team that makes the difference.
+enable  : false
+title   : O Time da Via Arto, que faz a diferença!
 members  :
   - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
+    name        : Nane Alcântara
+    designation : Sócia Proprietária & Diretora Criativa
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-two.jpg
-    name        : MONTINO RIAU
-    designation : Product Manager
+    name        : Val Carvalho
+    designation : Sócio Proprietário & Diretor de Tecnologia e Inovação
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-three.jpg
-    name        : ALEX NAASRI
-    designation : Chief Design Officer
+    name        : Gabi Lack
+    designation : Criativa
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-four.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  #- image       : images/team/team-member-four.jpg
+  #  name        : Nari Rocha
+  #  designation : Vendas e Atendimento
+  #  medium      : https://www.medium.com/
+  #  linkedin    : https://www.linkedin.com/
+  #  instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-five.jpg
-    name        : SANTIO ANDRESS
-    designation : Content Researcher
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  #- image       : images/team/team-member-five.jpg
+  #  name        : SANTIO ANDRESS
+  #  designation : Content Researcher
+  #  medium      : https://www.medium.com/
+  #  linkedin    : https://www.linkedin.com/
+  #  instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-six.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  #- image       : images/team/team-member-six.jpg
+  #  name        : RAMESH PAUL
+  #  designation : Creative Designer
+  #  medium      : https://www.medium.com/
+  #  linkedin    : https://www.linkedin.com/
+  #  instagram   : https://www.instagram.com/

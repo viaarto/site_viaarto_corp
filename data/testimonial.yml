@@ -1,6 +1,6 @@
-enable  : true
-title   : "OPINION FROM REAL PEOPLE"
-subtitle: "What clients says about our services."
+enable  : false
+title   : "OPINIÕES DE PESSOAS REAIS!"
+subtitle: "O que nossos clientes estão falando sobre nossos serviços"
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
     name  : "Simonns Hodge"
