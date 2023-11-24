@@ -1,4 +1,4 @@
-baseURL       = "https://corp.viaarto.com.br/"
+baseURL       = "https://corp.viaarto.com.br"
 languageCode  = "pt-br"
 title         = "Via Arto - Personalizados e Brindes"
 theme         = "roxo-hugo"
