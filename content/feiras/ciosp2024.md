@@ -1,7 +1,7 @@
 ---
 title: "CIOSP 2024"
-date: 2030-12-23T20:56:42+06:00
-type: feira
+date: 2020-12-23T20:56:42+06:00
+type: portfolio
 image: "images/projects/project-thumb-four.jpg"
 category: ["FEIRA"]
 

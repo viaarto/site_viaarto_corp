@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FEIRAS on Via Arto - Personalizados e Brindes</title>
+    <title>Feiras on Via Arto - Personalizados e Brindes</title>
     <link>https://corp.viaarto.com.br/feiras/</link>
-    <description>Recent content in FEIRAS on Via Arto - Personalizados e Brindes</description>
+    <description>Recent content in Feiras on Via Arto - Personalizados e Brindes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2020 20:56:42 +0600</lastBuildDate>
     <atom:link href="https://corp.viaarto.com.br/feiras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CIOSP 2024</title>
+      <link>https://corp.viaarto.com.br/feiras/ciosp2024/</link>
+      <pubDate>Wed, 23 Dec 2020 20:56:42 +0600</pubDate>
+      <guid>https://corp.viaarto.com.br/feiras/ciosp2024/</guid>
+      <description>O Congresso Internacional de Odontologia de São Paulo (CIOSP), organizado pela Associação Paulista de Cirurgiões-Dentistas (APCD), é um dos maiores congressos de Odontologia do mundo! Com o compromisso de trazer as últimas tendências e avanços do mercado odontológico de maneira criativa, produtiva e inovadora, o CIOSP visa proporcionar a todos os participantes uma experiência enriquecedora que ajude a impulsionar suas carreiras e aprimorar seus conhecimentos.</description>
+    </item>
+    <item>
+      <title>ROLA</title>
+      <link>https://corp.viaarto.com.br/feiras/teste/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      <guid>https://corp.viaarto.com.br/feiras/teste/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
   </channel>
 </rss>
