@@ -1,7 +1,7 @@
 ---
 title: "CIOSP 2024"
-date: 2019-12-23T20:56:42+06:00
-type: portfolio
+date: 2030-12-23T20:56:42+06:00
+type: feira
 image: "images/projects/project-thumb-four.jpg"
 category: ["FEIRA"]
 
@@ -13,11 +13,6 @@ Sua empresa vai participar deste evento?
 
 Na Via Arto você garante seus brindes para a feira com os melhores preços e prazos. Tudo em um único lugar!
 
-aqui
-{{< rawhtml>}} 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQHMRjsM57pz90NMW-GpA0vlLjFNvgdqwjFgziDizoIR55iA/viewform?embedded=true" width="640" height="922" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 
-{{< /rawhtml>}} 
-
-aqui
