@@ -49,5 +49,4 @@ Para mais informações, entre em contato conosco pelo telefone ou WhatsApp 11 9
 
 {{< rawhtml >}}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQHMRjsM57pz90NMW-GpA0vlLjFNvgdqwjFgziDizoIR55iA/viewform?embedded=true" width="640" height="922" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-
 {{< /rawhtml >}}

@@ -1,11 +1,20 @@
 baseURL       = "https://corp.viaarto.com.br"
 languageCode  = "pt-br"
-title         = "Via Arto - Personalizados e Brindes"
+title         = "Via Arto - Brindes Personalizados | Brindes Corporativos | Produtos Personalizados"
 theme         = "roxo-hugo"
 summarylength = 25
 
 # Meus Parametros
 publishDir    = "docs"
+enableRobotsTXT = true
+author = "Via Arto"
+description = "Via Arto - Brindes Personalizados | Brindes Corporativos | Produtos Personalizados"
+keywords = "brindes personalizados, produtos corporativos customizados, presentes empresariais exclusivos, merchandising personalizado, itens promocionais para empresas, brindes de qualidade para negócios, soluções criativas em brindes, produtos para eventos corporativos, presentes corporativos sustentáveis, Via Arto brindes"
+resizeImages = "true"
+enableEmoji = "true"
+enableGitInfo = "true"
+canonifyURLs = "true"
+
 
 # Site Menus
 [menu]
@@ -26,14 +35,15 @@ publishDir    = "docs"
     name    = "Blog"
     url     = "blog"
     weight  = 4
- # [[menu.nav]]
- #   name    = "Loja"
- #   url     = "https://viaarto.com.br"
- #   weight  = 4
-  [[menu.nav]]
-    name    = "Entre em Contato"
-    url     = "#"
+   [[menu.nav]]
+    name    = "Entre em contato"
+    url     = "contact"
     weight  = 5
+  [[menu.nav]]
+    name    = "Catálogo"
+    url     = "https://viaarto.com.br"
+    weight  = 4
+
 
 # Site Params
 [params]
