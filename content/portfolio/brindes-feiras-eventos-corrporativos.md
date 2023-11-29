@@ -2,9 +2,9 @@
 title: "BRINDES PARA FEIRAS & EVENTOS"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
-image: "images/projects/project-thumb-one.jpg"
+image: "images/viaarto/00-swags-01.png"
 category: ["BRINDES"]
-# project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+# project_images: ["images/projects/brindes-para-feiras-e-eventos.jpg", "images/projects/brindes-para-feiras-e-eventos.jpg"]
 ---
 
 ## TEMOS OS PRODUTOS CERTOS PARA SUA FEIRA OU EVENTO CORPORATIVO

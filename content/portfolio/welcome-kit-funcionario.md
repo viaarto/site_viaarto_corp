@@ -2,9 +2,9 @@
 title: "WELCOME KIT PARA FUNCIONÁRIOS"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/viaarto/00-swags-01.png"
 category: ["BRINDES"]
-# project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+# project_images: ["images/projects/welcome-kit-para-funcionarios.jpeg", "images/projects/welcome-kit-para-funcionarios.jpeg"]
 ---
 
 ## Reconheça seus Colaboradores com Kits e Presentes Personalizados

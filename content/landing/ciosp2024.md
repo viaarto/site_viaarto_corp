@@ -1,6 +1,6 @@
 ---
 title: "Oferta Especial para o CIOSP 2024"
-date: 2019-12-23T15:58:10+06:00
+date: 2000-01-01
 type: portfolio
 image: "images/projects/project-thumb-one.jpg"
 category: ["BRINDES"]

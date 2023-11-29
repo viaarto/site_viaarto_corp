@@ -15,6 +15,9 @@ enableEmoji = "true"
 enableGitInfo = "true"
 canonifyURLs = "true"
 
+[blackfriday]
+hrefTargetBlank = true
+
 
 # Site Menus
 [menu]
@@ -54,7 +57,7 @@ canonifyURLs = "true"
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Via Arto produtos personalizados e brindes corporativos"
+  #description = "Via Arto produtos personalizados e brindes corporativos"
   # Google Analitycs
   googleAnalitycsID = "G-KDCT2Y1R4E"
   # We're using formspree.io for form handling, paste your formspree url below
@@ -78,7 +81,7 @@ canonifyURLs = "true"
   
   # Navbar Action Button
   [params.navAction]
-    status  = true
+    status  = false
     name    = "Get in touch"
     url     = "contact"
   
@@ -87,7 +90,7 @@ canonifyURLs = "true"
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Nós somos uma empresa de soluções de produtos personalizados e brindes"
+    heading               = "Nós somos uma empresa com soluções completas de brindes corporativos e produtos personalizados"
     tagline               = "VIA ARTO = SUA ARTE"
     primary_button        = "Conheça nossos trabalhos"
     primary_button_url    = "portfolio"
@@ -98,9 +101,9 @@ canonifyURLs = "true"
     read_more             = "saiba mais..."
 
   [params.portfolio]
-    enable    = true
+    enable    = true # // esconde o portfolio da home
     title     = "Nosso Portfolio de Produtos e Serviços"
-    subtitle  = "Criando experiências e buscando tornar o complexo claro e bonito."
+    subtitle  = ""
     view_project = "abrir"
     more_works = "MORE WORKS"
     scroll_down = "role para baixo"
@@ -115,7 +118,7 @@ canonifyURLs = "true"
     secondary_button_url = "portfolio"
 
   [params.footer]
-    params.footer.qr_print = false
+    params.footer.qr_print = true
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Informação de Contato"
@@ -142,13 +145,13 @@ canonifyURLs = "true"
         title   = "Nossas Redes Sociais"
         [[params.footer.social.link]]
           name = "WhatsApp"
-          url  = "#"
+          url  = "https://wa.me/5511912394099"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "#"
+          url  = "https://instagram.com/viaartobr"
         [[params.footer.social.link]]
           name = "Facebook"
-          url  = "#"
+          url  = "https://www.facebook.com/viaartobr"
         [[params.footer.social.link]]
           name = "Linkedin"
           url  = "https://www.linkedin.com/company/viaarto/"
