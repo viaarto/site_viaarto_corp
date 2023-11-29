@@ -2,9 +2,9 @@
 title: "BRINDES PARA FEIRAS & EVENTOS"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
-image: "images/viaarto/00-swags-01.png"
+image: "images/viaarto/brindes-corporativos-para-feiras-e-eventos.png"
 category: ["BRINDES"]
-# project_images: ["images/projects/brindes-para-feiras-e-eventos.jpg", "images/projects/brindes-para-feiras-e-eventos.jpg"]
+# project_images: ["images/viaarto/post-image-01.png", "images/viaarto/post-image-02.png"]
 ---
 
 ## TEMOS OS PRODUTOS CERTOS PARA SUA FEIRA OU EVENTO CORPORATIVO
@@ -18,6 +18,6 @@ Na Via Arto, entendemos a importância de criar conexões duradouras em eventos 
 
 **Variedade para Todos os Gostos e Necessidades:** De itens tecnológicos inovadores a opções sustentáveis e eco-friendly, nosso portfólio abrange uma vasta gama de produtos que atendem a diferentes estilos e necessidades. Seja qual for o tema do seu evento ou feira, temos o brinde certo para complementá-lo.
 
-
-
 Junte-se a nós na Via Arto e transforme cada evento e feira em uma oportunidade única para fortalecer sua marca e construir relações significativas. Contate-nos hoje e descubra como podemos ajudar a tornar seu próximo evento inesquecível.
+
+

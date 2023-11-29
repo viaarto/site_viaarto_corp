@@ -160,10 +160,11 @@ hrefTargetBlank = true
           url  = "https://g.co/kgs/VBvQP7"        
       # Footer Service
       [params.footer.service]
-        title       = "Nós ajudamos marcas e empresas"
-        description = "oferecendo soluções completas em produtos personalizados e brindes"
+        title       = "Nós ajudamos empresas..."
+        description = "Oferecendo produtos promocionais personalizados que as pessoas realmente desejam guardar e usar. Ajudamos empresas a criar produtos promocionais personalizados que destacam sua marca. Produtos com logotipo personalizado, mercadorias promocionais em massa, brindes e itens que sabemos que você vai adorar."
       [params.footer.back_to_top]
         description = "Subir"
 
 
-        
+        # Produtos promocionais personalizados que as pessoas realmente desejam manter.
+        # Ajudamos empresas a criar produtos promocionais personalizados que destacam sua marca. Produtos com logotipo personalizado, mercadorias promocionais em massa, brindes e itens que sabemos que você vai adorar.

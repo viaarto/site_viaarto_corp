@@ -2,7 +2,7 @@
 title: "WELCOME KIT PARA FUNCIONÁRIOS"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/viaarto/00-swags-01.png"
+image: "images/viaarto/welcome-kit-para-funcionarios.png"
 category: ["BRINDES"]
 # project_images: ["images/projects/welcome-kit-para-funcionarios.jpeg", "images/projects/welcome-kit-para-funcionarios.jpeg"]
 ---
