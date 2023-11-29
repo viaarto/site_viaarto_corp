@@ -42,10 +42,7 @@ hrefTargetBlank = true
     name    = "Entre em contato"
     url     = "contact"
     weight  = 5
-  [[menu.nav]]
-    name    = "Catálogo"
-    url     = "https://viaarto.com.br"
-    weight  = 4
+
 
 
 # Site Params
