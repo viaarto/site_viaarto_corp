@@ -12,7 +12,10 @@ category: ["BRINDES"]
 
 ### CRIATIVIDADE E EXCLUSIVIDADE EM CADA BRINDE
 
+<!---
 ![blog-details-image-02](/images/viaarto/brindes-para-feiras-e-eventos.png)
+--> 
+
 ---
 
 Na Via Arto, acreditamos que a singularidade é a chave para se destacar. É por isso que nossos projetos customizados são mais do que brindes; são declarações da sua marca, pensadas para encantar e surpreender. Com um olhar atento aos detalhes e uma abordagem criativa, transformamos ideias em realidade.

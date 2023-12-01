@@ -12,9 +12,9 @@ category: ["BRINDES"]
 ---
 #### TEMOS OS PRODUTOS CERTOS PARA SUA FEIRA OU EVENTO CORPORATIVO
 
-
+<!---
 ![blog-details-image-02](/images/viaarto/brindes-para-feiras-e-eventos.png)
-
+--> 
 ---
 
 Na Via Arto, entendemos a importância de criar conexões duradouras em eventos corporativos e feiras de negócios. Nossa gama diversificada de brindes corporativos é projetada não apenas para impressionar, mas para deixar uma marca memorável na mente de seus clientes e parceiros.
