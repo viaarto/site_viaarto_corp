@@ -9,4 +9,4 @@ git pull
 git add .
 git commit -m "update site code"
 git push
-scp -rpv .\docs\*  ubuntu@164.152.252.82:/home/ubuntu/tmp/site
+scp -rp .\docs\*  ubuntu@164.152.252.82:/home/ubuntu/tmp/site
