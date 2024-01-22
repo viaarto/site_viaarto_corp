@@ -7,3 +7,4 @@ git commit -m "update site code"
 git push
 echo "Updating site code @ webserver"
 scp -rp .\docs\*  ubuntu@164.152.252.82:/home/ubuntu/containers/viaarto-corp-site
+scp -rp .\config\*  ubuntu@164.152.252.82:/home/ubuntu/containers/viaarto-corp-site/config/
