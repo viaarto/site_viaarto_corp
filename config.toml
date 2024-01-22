@@ -38,6 +38,10 @@ hrefTargetBlank = true
     name    = "Blog"
     url     = "blog"
     weight  = 4
+  [[menu.nav]]
+    name    = "Catálogo de Produtos"
+    url     = "https://catalogo.viaartocorp.com.br/"
+    weight  = 4    
    [[menu.nav]]
     name    = "Entre em contato"
     url     = "contact"
@@ -137,6 +141,9 @@ hrefTargetBlank = true
         [[params.footer.sitemap.link]]
           name = "Contato"
           url  = "contact"
+        [[params.footer.sitemap.link]]
+          name = "Visite nosso Catálogo de Produtos"
+          url  = "https://catalogo.viaartocorp.com.br/"          
       # Footer Social Media
       [params.footer.social]
         title   = "Nossas Redes Sociais"
