@@ -6,5 +6,5 @@ git add .
 git commit -m "update site code"
 git push
 echo "Updating site code @ webserver"
-scp -rp .\docs\*  ubuntu@164.152.252.82:/home/ubuntu/containers/viaarto-corp-site
-scp -rp .\config\*  ubuntu@164.152.252.82:/home/ubuntu/containers/viaarto-corp-site/config/
+scp -rp .\docs\*  ubuntu@129.148.45.54:/home/ubuntu/producao/site-viaarto-corp/nginx-src
+scp -rp .\config\*  ubuntu@129.148.45.54:/home/ubuntu/producao/site-viaarto-corp/nginx-src
